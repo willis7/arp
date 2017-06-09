@@ -11,7 +11,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/willis7/dash-light/arp"
+	"github.com/willis7/arp"
 )
 
 func Shout() {
